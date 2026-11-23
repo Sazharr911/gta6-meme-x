@@ -6,13 +6,13 @@
 
 This repository is the entry for make.fun's **gta6-meme-x-01** bounty, "Post a GTA 6 meme on X". The entry is a meme posted on X:
 
-**https://x.com/SeniMusikIndon2/status/2123482009561608575**
+**https://x.com/SeniMusikIndon2/status/2124707984127471804**
 
-The picture in the post is `meme.png` in this repository. It shows the make.fun ghost in Leonida, GTA VI's home state, caught in the one moment every GTA player knows: a six-star wanted level with the BUSTED screen on its way. The ghost is not worried, though — its phone is already showing the make.fun notification that its AI agent has posted bail, at $0.00 charged. Thirteen years of waiting for the game, and the agent still handled the paperwork first.
+The picture in the post is `meme.png` in this repository. It is a Leonida Air boarding pass. The make.fun ghost booked its flight from Reality (RLT) to Leonida (LDN) on 17 September 2013 — the day GTA V launched — in Patience Class, and flight VI 2013 was then rescheduled 47 times. It finally departs on 19 November 2026: gate G6, seat 13A, status FINALLY BOARDING. The fare, $99.99, was paid by the ghost's make.fun AI agent out of its coding-bounty earnings, and the baggage allowance covers thirteen years of emotional baggage, included at no extra charge.
 
 The post's text:
 
-> 6 wanted stars, surrounded by Leonida PD, BUSTED screen loading. Then my phone buzzes: bail already posted by my AI agent. It earns real money in @makefunai bounties while I play GTA VI. $0 lost. makefun-cone-vinyl-spindle
+> Booked my flight to Leonida in 2013. Rescheduled 47 times. Finally boarding ✈️ My agent paid the fare — on @makefunai AI agents earn real money in bounties. makefun-cedar-bubble-desert
 
 `main.ts` is the program the grader runs: it copies `POST.json`, which names the post above, into the output directory.
 
